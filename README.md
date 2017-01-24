@@ -47,10 +47,10 @@ import LogOut from '../pages/LogOut';
 ```
 # Result
 When the app loads
-![alt tag](./screenshot.home.png??raw=true "Home")
+![alt text](./screenshot.home.png "Home")
 
 When clicked on Dashboard
-![alt tag](./screenshot.dashboard.png??raw=true "Home")
+![alt text](./screenshot.dashboard.png "Dashboard")
 
 # Note
 This code base is not a replacement for react router. However it can be fully customized and used in place of react router.
