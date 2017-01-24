@@ -13,7 +13,9 @@ Build Code: ```npm run build```
 
 This app has been created with create-react-app, for more information about code building and all please check:
 
-```https://github.com/facebookincubator/create-react-app```
+```
+https://github.com/facebookincubator/create-react-app
+```
 
 # Usage Instructions
 It is important to note that this component does not use react-router. Hence the logic for displaying appropriate page (react-component) when a tab is clicked should be written explicitly.
