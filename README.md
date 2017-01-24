@@ -48,10 +48,16 @@ import LogOut from '../pages/LogOut';
 //...rest of the code
 ```
 # Result
+
+```
 When the app loads
+```
+
 ![alt text](./screenshot.home.png "Home")
 
+```
 When clicked on Dashboard
+```
 ![alt text](./screenshot.dashboard.png "Dashboard")
 
 # Note
