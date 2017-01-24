@@ -1,0 +1,31 @@
+.tabs {
+  background-color: #f3e4d6;
+  color: #123456;
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: 2px solid #f3e4d6;
+  border-bottom: 0;
+}
+.tabs li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.tabs li:hover {
+  background-color: #123456;
+  color: #f3e4d6;
+  cursor: pointer;
+}
+.tabs li.active {
+  background-color: #123456;
+  color: #f3e4d6;
+}
+.page {
+  border-top: 2px solid #f3e4d6;
+  padding: 40px;
+  color: #ffffff;
+  display: block;
+  box-sizing: border-box;
+}
